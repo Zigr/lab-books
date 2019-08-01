@@ -9,6 +9,6 @@ $  composer install
 3. Adjust your virtual host configuration or rum php built-in server from project root directory:
 e.g.
 $ php -S localhost:8888 -t ./public/
-4. Ensure served folders and files have proper permissions(can be read and write by web server).
+4. Ensure served folders and files have proper permissions(can be read and written by web server).
 5. in browser go to http://localhost:8888/migration to create,delete or truncate tables and fill sample data.
 
