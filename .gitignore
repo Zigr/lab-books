@@ -1,5 +1,5 @@
-app/storage/files/
-!app/storage/.gitkeep
+app/storage/files/*
+!app/storage/files/.gitkeep
 
 nbproject/
 vendor/
