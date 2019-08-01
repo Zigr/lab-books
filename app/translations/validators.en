@@ -1,0 +1,7 @@
+<?php
+
+return [
+    'book.name.not_blank' => 'Please enter an book name.',
+    'book.isbn.not_blank' => 'Please enter an isbn number 12345687.',
+    'book.isbn.length' => 'This value is too short. It should have {{ limit }} character or more.|This value is too short. It should have {{ limit }} characters or more.',
+];

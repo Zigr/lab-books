@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/routing": "3.4",
+        "symfony/http-foundation": "3.4",
+        "zendframework/zend-db": "^2.10",
+        "symfony/templating": "3.4",
+        "symfony/security": "3",
+        "symfony/validator": "3",
+        "symfony/translation": "3"
+    }
+}

@@ -1,0 +1,9 @@
+<?php
+
+return [
+    'book.name.not_blank' => 'Please enter an book name.',
+    'book.isbn.not_blank' => 'Please enter an isbn number.',
+    'book.isbn.length' => 'Занадто коротке значення. Має бути{{ limit }} символів або більше.',
+];
+
+
